@@ -22,9 +22,4 @@ This project develops a Financial Fraud Detection System that identifies fraudul
 
 ```bash
 git clone https://github.com/yourusername/repository-name.git
-cd repository-name ```
-
-### Run Code
-
-```bash
-python fraud_detection.py
+cd repository-name 
