@@ -16,7 +16,7 @@ This project develops a Financial Fraud Detection System that identifies fraudul
 - **Dataset Used**: [Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) from Kaggle.
 - **Description**: Contains transactions made by credit cards in September 2013 by European cardholders.
 
-### Installation
+## Installation
 
 1. Clone the repository:
    ```bash
