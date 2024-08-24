@@ -16,16 +16,18 @@ This project develops a Financial Fraud Detection System that identifies fraudul
 - **Dataset Used**: [Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) from Kaggle.
 - **Description**: Contains transactions made by credit cards in September 2013 by European cardholders.
 
-## Usage
+### Installation
 
-1. Clone the repository
-```bash
-git clone https://github.com/singhadwika/fraudbust.git
-cd fraudbust
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/singhadwika/fraudbust.git
+   cd fraudbust
 
 2. Create and activate a virtual environment:
+    ```bash
     python -m venv venv
     source venv/bin/activate
     
 3. Install the required packages:
+    ```bash
     pip install -r requirements.txt
