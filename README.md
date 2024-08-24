@@ -21,5 +21,5 @@ This project develops a Financial Fraud Detection System that identifies fraudul
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/repository-name.git
-cd repository-name 
+git clone https://github.com/singhadwika/fraudbust.git
+cd fraudbust
