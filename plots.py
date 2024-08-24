@@ -1,3 +1,8 @@
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.decomposition import PCA
+from sklearn.manifold import TSNE
+
 # Visualization with PCA and t-SNE
 pca = PCA(n_components=2)
 X_pca = pca.fit_transform(X_test_encoded)
