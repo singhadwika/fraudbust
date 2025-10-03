@@ -9,7 +9,6 @@ This project develops a Financial Fraud Detection System that identifies fraudul
 - **Autoencoders**: Trains an autoencoder to learn normal transaction patterns and reconstruct data.
 - **Clustering Algorithms**: Applies K-Means and DBSCAN clustering on the latent space to detect anomalies.
 - **Latent Space Refinement**: Uses Latent Discriminant Analysis (LDA) to improve clustering results.
-- **Visualization**: Implements PCA and t-SNE to visualize high-dimensional data and clustering results.
 
 ## Dataset
 
